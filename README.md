@@ -1,4 +1,4 @@
-# 5.6	Vererbung
+# Vererbung
 •	**Doppelpunkt**: Dadurch wird festgelegt, dass die Klasse PKW alle Elemente von der Klasse Fahrzeug erbt.
 
 •	**base()**: Der andere Konstruktor benötigt eine string-Variable und zwei int-Variablen. Zwei der übergebenen Werte werden mithilfe von base() an die Basisklasse weitergereicht, dabei muss der passende Konstruktor aufgerufen werden.
